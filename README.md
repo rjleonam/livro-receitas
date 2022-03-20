@@ -1,6 +1,6 @@
 # Livro de receitas
 
 Olá Bem vindo ao meu livro de receitas;
-- Strogonoff de frang
-- Hotdog
-- Bolo de cenoura
+* Strogonoff de frang
+* Hotdog
+* Bolo de cenoura
